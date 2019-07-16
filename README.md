@@ -1,5 +1,5 @@
-# rxjs-basics
-Basic exercises to RxJS with solution
+# rxjs-firstSteps
+First steps with RxJS with exercises and solutions
 
 
 ## Get started
