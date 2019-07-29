@@ -1,6 +1,5 @@
 # rxjs-firstSteps
-First steps with RxJS with exercises and solutions
-
+First steps in RxJS with exercises and solutions. Here will you see how to combine and use some basic operators on observables.
 
 ## Get started
 
