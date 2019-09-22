@@ -18,3 +18,9 @@ To use RxJS code you need to run this
 ```
 npm install
 ```
+
+Then you can run the code by this
+
+```
+node ./solutions/0-exercise.js 
+```
